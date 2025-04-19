@@ -6,6 +6,6 @@ Console.log function name and values if required to call the function once impor
 Use terminal "node (FILE NAME)"
 
 ## Module exports / Require Description:
-Never push Modules to Github always put in .gitignore file. Use npm install lodash for modules. Each Module only does one thing. Modules are a big part of keeping your code more organized while serving a purpose of doing what you may need done.(Arrays, For Loops, Functions etc..)
+Never push Modules to Github always put in .gitignore file. Modules are a big part of keeping your code more organized while serving a purpose of doing what you may need done.(Arrays, For Loops, Functions etc..)
 
 
